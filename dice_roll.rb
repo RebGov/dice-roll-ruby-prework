@@ -4,6 +4,7 @@
 
 
 def roll
-  #code goes helper_method
+  rand(1..6)
+end
  
   
